@@ -2,13 +2,13 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
  xmlns:gap ="http://phonegap.com/ns/1.0"
- id ="com.phonegap.app2"
+ id ="com.phonegap.app3"
  version ="1.0.0">
  
- <name> app2-Especialidad Técnico en Programación </name>
+ <name> app3-Día mundial de la salud </name>
  
  <description>
- Aplicacion que muestra informacíon sobre la especialidad de Técnico en Programación CBTis
+ Aplicacion que muestra información sobre el día mundial de la salud
  </description>
  
  <author href="https://build.phonegap.com" email="vicotr10@hotmail.com">
